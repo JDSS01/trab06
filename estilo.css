@@ -1,0 +1,60 @@
+body {
+    width: 800px;
+    margin: 100px;
+    background-color: whitesmoke;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid royalblue;
+  }
+
+h1 {
+    color: rgb(68, 146, 224);
+    align-content: center;
+    font-family:arial, verdana, sans-serif; 
+}
+   
+
+    
+    
+
+table, td, th {
+    border : 2px solid black;
+    border-collapse : collapse;
+
+     }
+
+table{
+        tab-size: 600px;
+        font-size:20pt;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        table-layout: auto;
+       
+
+        color: black;
+       
+       
+        }
+
+th, td {
+    height: 10px;
+    vertical-align: bottom;
+    
+        }
+
+
+
+.riscar{
+    text-decoration: line-through;
+}
+     
+
+.centro{
+    text-align: center;
+}
+
+.lado1{
+    text-align: right;
+}
+
+.lado2{
+    text-align: left;
+}
